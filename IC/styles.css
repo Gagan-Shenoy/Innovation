@@ -1,0 +1,114 @@
+body
+{
+padding:0px 0px;
+margin:0px 0px;    
+height:2000px;
+}
+.navbar
+{
+background-image: url("bg1.jpg");
+background-size:cover;
+background-position:center;
+margin:0px 0px;    
+padding-top:5px ; 
+height:600px;
+}
+
+.etq
+{
+float: left;
+font-size:30px;
+padding-top:2px;
+margin-top:0px;
+padding-right:30px; 
+padding-bottom:0px ;
+margin-bottom:0px ;
+color:white;
+}
+
+.left li
+{
+list-style: none;    
+float:left;
+padding-right:30px;
+padding-top:0px;
+color:white; 
+}
+.right ul
+{    
+margin-top:0px;
+padding-top:0px;
+float: right;
+}
+.right li
+{
+margin-top:0px ;
+padding-top:0px;
+padding-right:30px;    
+list-style:none;    
+float: left;
+color:white;    
+}
+.column {
+    float: left;
+    width: 30%;
+    padding:30px 20px;
+    height:10px;
+}
+.column p
+{
+font-size:20px;
+font-family:cursive;
+}
+
+.images
+{
+margin-bottom:35%;  
+font-size:25px; 
+font-family:cursive; 
+color: gray;
+}
+
+.images2 img
+{
+height:300px;    
+}
+
+.images2{
+    font-size:20px; 
+    font-family:cursive;    
+    padding:30px 30px; 
+    color:gray;
+}
+
+.images2 td
+{
+width:30%;
+padding:0px 20px;
+}
+.images3 td
+{
+width:10%; 
+padding:0px 20px;   
+}
+.images3{
+font-size:20px; 
+font-family:cursive;    
+color:gray;
+}
+.images3 img
+{
+height:300px;
+}
+
+.info td
+{
+width:20%;
+}
+.info p
+{
+margin-left:10px;  
+margin-right:20px;
+padding:0px 0px;  
+color:gray;
+}
